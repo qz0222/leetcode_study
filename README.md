@@ -15,3 +15,15 @@
 10.Reverse String II
 
 ## 0509
+[link](./leetcode/0509.md)
+
+1.Hamming Distance      
+2.Array Partition I    
+3.Distribute Candies   
+4.Reshape the Matrix     
+5.Reverse Words in a String III    
+6.Number Complement  
+7.Keyboard Row     
+8.Fizz Buzz    
+9.Reverse String   
+10.Next Greater Element I   
