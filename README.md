@@ -41,3 +41,17 @@
 8. Maximum Depth of Binary Tree     
 9. Find the Difference   
 10. Sum of Two Integers   
+
+## 0511
+[link](./leetcode/0511.md)
+
+1. Invert Binary Tree            
+2. Add Digits      
+3. Move Zeroes      
+4. Construct the Rectangle     
+5. Binary Tree Tilt     
+6. Minimum Absolute Difference in BST  
+7. Assign Cookies     
+8. Two Sum II - Input array is sorted     
+9. Relative Ranks    
+10. Minimum Moves to Equal Array Elements   
