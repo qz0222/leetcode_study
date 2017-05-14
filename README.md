@@ -55,3 +55,67 @@
 8. Two Sum II - Input array is sorted     
 9. Relative Ranks    
 10. Minimum Moves to Equal Array Elements   
+
+## 0512
+[link](./leetcode/0512.md)
+
+1. Intersection of Two Arrays            
+2. Ransom Note      
+3. Sum of Left Leaves      
+4. First Unique Character in a String     
+5. Best Time to Buy and Sell Stock II     
+6. Excel Sheet Column Number  
+7. Delete Node in a Linked List     
+8. Same Tree     
+9. Majority Element    
+10. Valid Anagram  
+
+## 0513-a
+[link](./leetcode/0513a.md)
+
+1. Base 7            
+2. Longest Palindrome      
+3. Diameter of Binary Tree     
+4. Convert Sorted Array to Binary Search Tree     
+5. Add Strings   
+6. Convert a Number to Hexadecimal     
+7. Best Time to Buy and Sell Stock     
+8. Happy Number    
+9. Power of Three  
+10. Power of Two  
+
+## 0513-b
+[link](./leetcode/0513b.md)
+
+1. Remove Duplicates from Sorted List            
+2. Climbing Stairs      
+3. Search Insert Position     
+4. Path Sum III   
+5. Maximum Subarray   
+6. Binary Tree Level Order Traversal II     
+7. Number of 1 Bits     
+8. Ugly Number    
+9. Merge Two Sorted Lists  
+10. Lowest Common Ancestor of a Binary Search Tree  
+
+## 0513-c
+[link](./leetcode/0513c.md)
+
+1. Repeated Substring Pattern            
+2. House Robber      
+3. Find Mode in Binary Search Tree     
+4. Remove Element  
+
+## 0514
+[link](./leetcode/0514.md)
+
+1. Power of Four            
+2. Reverse Vowels of a String      
+3. Symmetric Tree     
+4. Valid Perfect Square   
+5. Plus One   
+6. Pascal's Triangle      
+7. Binary Tree Paths     
+8. Number of Segments in a String     
+9. Balanced Binary Tree  
+10. Arranging Coins
