@@ -1,0 +1,27 @@
+并查集
+
+找两个人是否在同一个集合当中 find
+每个人都有一个指针，指向‘boss’／father
+
+Hash {}
+boss = {
+A => B;
+B => B;
+C => B;
+D => E;
+F => E;
+E => E
+}
+
+1. find
+a.father until x.father == x ?
+找该点的老大哥
+用路经压缩 compressed_find
+时间复杂度 O(1)
+
+
+
+2. union
+老大哥之间合并，
+跟小弟没关系
+时间复杂度 O(1)
